@@ -91,6 +91,9 @@ int size(Fila* q){
     return q->size;
 }
 
+
+
+
 int main() {
     int valor; // Variável para receber o valor do dequeue
 
